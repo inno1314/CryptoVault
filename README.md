@@ -71,4 +71,4 @@ Telegram: mystrong#password1314
 python3 -m app.main --get Telegram
 Enter passphrase: 
 Ошибка дешифровки: Ошибка проверки HMAC.
-```jjkkk
+```
